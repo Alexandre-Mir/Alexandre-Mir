@@ -27,5 +27,6 @@ I'm a **frontend** developer from **Brazil**
 ---
 
 ### :pencil: Projects : 
+- [Portfolio](https://alexandre-mir.github.io/portfolio/)
 - [404 Not Found](https://github.com/Alexandre-Mir/404-Not-Found)
 - [Landing Page Ballerini](https://github.com/Alexandre-Mir/Lading-Page-Ballerini)
