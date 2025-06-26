@@ -7,17 +7,16 @@
 
 <h1 align="center">
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=50px>
-  Hi, I'm Alexandre!
+  Olá, me chamo Alexandre!
 </h1>
 
 
-### :man_technologist: About Me :
-I'm a **frontend** developer from **Brazil**
-- Learning frontend through [Alura](https://www.alura.com.br/) course.
+### :man_technologist: Sobre :
+Estudante de História na Universidade de Brasília e Análise e Desenvolvimento de Sistemas na Descomplica, combino pensamento crítico e habilidades técnicas para explorar oportunidades na área de desenvolvimento front-end. Meu objetivo é evoluir em tecnologias como React.js e TypeScript, criando soluções que unam funcionalidade e acessibilidade para os usuários.
 
 ---
 
-### :hammer_and_wrench: Languages and Tools : 
+### :hammer_and_wrench: Linguagens : 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="css" height="50px">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="html" height="50px">
@@ -26,7 +25,7 @@ I'm a **frontend** developer from **Brazil**
 
 ---
 
-### :pencil: Projects : 
-- [Portfolio](https://alexandre-mir.github.io/portfolio/)
-- [404 Not Found](https://github.com/Alexandre-Mir/404-Not-Found)
-- [Landing Page Ballerini](https://github.com/Alexandre-Mir/Lading-Page-Ballerini)
+### :pencil: Projetos : 
+- [Academia Energia](https://github.com/Alexandre-Mir/projeto_bootstrap)
+- [Agenda de Contatos](https://github.com/Alexandre-Mir/agenda-de-contatos)
+- [Meu RPG](https://github.com/Alexandre-Mir/MeuRPG)
