@@ -15,13 +15,13 @@
 Apaixonado por criar interfaces funcionais que unem estética e acessibilidade. Minha jornada na tecnologia começou na infância, quando desenvolvi jogos de forma independente na Unity. Mais tarde, descobri como meu amor por design e história (história tem tudo a ver com UX!) converge no desenvolvimento front-end. Desde então, minha missão tem sido transformar layouts em experiências que vão além da mera interação — criando momentos que realmente ressoam com os usuários.
 
 Atualmente focado:
-💠 Dominar o React.js;
-💠 Aprofundar-me em TypeScript;
-💠 Explorar ferramentas de gerenciamento de estado como Redux, Zustand e a Context API.
+- 💠 Dominar o React.js;
+- 💠 Aprofundar-me em TypeScript;
+- 💠 Explorar ferramentas de gerenciamento de estado como Redux, Zustand e a Context API.
 
 Investindo no meu crescimento:
-✅ Curso de Desenvolvimento Front-End na EBAC;
-✅ Prática diária com desafios no Frontend Mentor.
+- ✅ Curso de Desenvolvimento Front-End na EBAC;
+- ✅ Prática diária com desafios no Frontend Mentor.
 
 Aberto para colaborar em projetos inovadores, oportunidades de mentoria e para me conectar com profissionais que compartilham a paixão pelo desenvolvimento front-end. Vamos conversar sobre como posso contribuir para o seu próximo projeto! 💻✨
 
