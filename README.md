@@ -10,50 +10,64 @@
   Olá, me chamo Alexandre. Muito prazer!
 </h1>
 
+### :man_technologist: Sobre Mim
+Apaixonado por criar interfaces que unem estética e funcionalidade. Minha jornada começou desenvolvendo jogos na Unity e evoluiu para a Engenharia Front-end, onde convergi meu interesse por design e experiência do usuário (UX).
 
-### :man_technologist: Sobre :
-Apaixonado por criar interfaces funcionais que unem estética e acessibilidade. Minha jornada na tecnologia começou na infância, quando desenvolvi jogos de forma independente na Unity. Mais tarde, descobri como meu amor por design e história (história tem tudo a ver com UX!) converge no desenvolvimento front-end. Desde então, minha missão tem sido transformar layouts em experiências que vão além da mera interação — criando momentos que realmente ressoam com os usuários.
+Tenho um perfil analítico com experiência prática na resolução de problemas em sistemas legados (PHP/SQL), o que me ensinou a importância da otimização de fluxos de trabalho. Atualmente, estou focado em construir aplicações modernas e performáticas.
 
-Atualmente focado:
-- 💠 Dominar o React.js;
-- 💠 Aprofundar-me em TypeScript;
-- 💠 Explorar ferramentas de gerenciamento de estado como Redux, Zustand e a Context API.
+**Foco Atual:**
+- 💠 **Arquitetura Serverless & Cloud:** Redução de custos e escalabilidade.
+- 💠 **Integração com IA:** Implementação de LLMs em aplicações web.
+- 💠 **Ecossistema React:** Aprofundamento em TypeScript, Tailwind CSS (v4) e React Router.
 
-Investindo no meu crescimento:
-- ✅ Curso de Desenvolvimento Front-End na EBAC;
-- ✅ Prática diária com desafios no Frontend Mentor.
+**Formação e Desenvolvimento:**
+- 🎓 Engenheiro Front-end em formação pela **EBAC**.
+- 🎓 Graduando em Análise e Desenvolvimento de Sistemas.
+- ✅ Prática constante através de desafios no Frontend Mentor e projetos pessoais.
 
-Aberto para colaborar em projetos inovadores, oportunidades de mentoria e para me conectar com profissionais que compartilham a paixão pelo desenvolvimento front-end. Vamos conversar sobre como posso contribuir para o seu próximo projeto! 💻✨
-
----
-
-### :hammer_and_wrench: Habilidades : 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" height="50px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="javascript" height="40px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="html" height="50px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="css" height="50px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" height="50px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" height="50px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" height="50px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" height="50px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/reactrouter/reactrouter-original.svg" alt="react router" height="50px">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" height="50px">  
-  </div>
+Estou aberto a colaborações em projetos inovadores e oportunidades como Desenvolvedor Front-end. Vamos conversar! 💻✨
 
 ---
 
-### :pencil: Projetos relevantes : 
-- [Analisador de currículos com IA](https://github.com/Alexandre-Mir/analisador-de-curriculos-com-IA) (Em progresso...)
-  - **Objetivo**: Ajudar candidatos a otimizar seus currículos e melhorar suas chances em processos seletivos.
-  - **Descrição**: Desenvolvi arquitetura de projeto com React, TypeScript, Node e Tailwind CSS. Gerenciei navegação e rotas com React Router. Criei sistema de autenticação serverless com Puter.js (backend) e Zustand (estado). Integrei React Dropzone e PDF.js para upload/processamento de currículos. Futuras integrações: IA para análise ATS e feedback detalhado.
+### :hammer_and_wrench: Habilidades
+<div align="left">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" height="40px" title="React">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="typescript" height="40px" title="TypeScript">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="javascript" height="40px" title="JavaScript">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain-wordmark.svg" alt="html" height="40px" title="HTML5">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" alt="css" height="40px" title="CSS3">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass" height="40px" title="Sass/SCSS">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" height="40px" title="Tailwind CSS">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" height="40px" title="Bootstrap">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gulp/gulp-plain.svg" alt="gulp" height="40px" title="Gulp">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" height="40px" title="Git">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="nodejs" height="40px" title="Node.js">
+</div>
 
-- [Academia Energia](https://github.com/Alexandre-Mir/projeto_bootstrap)
-  - **Objetivo**: Criar um site gerenciável responsivo para academia com componentes modernos.
-  - **Descrição**: Desenvolvi um layout responsivo, mobile-first, com Bootstrap 5, garantindo otimização de desempenho e validação cross-browser. Estruturei semanticamente com HTML5, aplicando efeitos CSS interativos e foco em acessibilidade básica. Publicação e deploy utilizando Vercel. Versionamento com Git.
-- [Agenda de Contatos](https://github.com/Alexandre-Mir/agenda-de-contatos)
-  - **Objetivo**: Desenvolver uma aplicação dinâmica para gerenciamento de contatos.
-  - **Descrição**: Desenvolvi funcionalidades interativas utilizando HTML5 semântico, CSS e JavaScript, inclui operações CRUD em tempo real, validação de formulários e armazenamento local. Publicação na Vercel, com foco em acessibilidade. Versionamento com Git.
-- [Meu RPG](https://github.com/Alexandre-Mir/MeuRPG)
+---
+
+### :pencil: Projetos Relevantes
+
+- [**Resumind (Analisador de Currículos com IA)**](https://github.com/Alexandre-Mir/analisador-de-curriculos-com-IA)
+  - **Objetivo**: Aplicação para otimização de currículos com foco em sistemas ATS.
+  - **Tech Stack**: React, TypeScript, Tailwind CSS, Serverless (Puter.js), Zustand.
+  - **Destaque**: Desenvolvimento de arquitetura Serverless focada na redução de custos de infraestrutura e alta performance. Integração de React Dropzone e PDF.js para processamento de arquivos.
+
+- [**Clone Disney+**](https://github.com/Alexandre-Mir/clone-disneyplus)
+  - **Objetivo**: Réplica responsiva da landing page do Disney+.
+  - **Tech Stack**: HTML5, SASS (SCSS), JavaScript Vanilla, Gulp, NPM.
+  - **Destaque**: Estruturação semântica e estilização avançada com Mixins/Variáveis SASS. Automação de tarefas (minificação de scripts e otimização de imagens) via Gulp para garantir alta performance.
+
+- [**Academia Energia**](https://github.com/Alexandre-Mir/projeto_bootstrap)
+  - **Objetivo**: Site institucional responsivo para uma academia.
+  - **Tech Stack**: Bootstrap 5, HTML5, CSS3.
+  - **Destaque**: Layout mobile-first com validação cross-browser e componentes interativos do Bootstrap.
+
+- [**Agenda de Contatos**](https://github.com/Alexandre-Mir/agenda-de-contatos)
+  - **Objetivo**: Aplicação SPA para gerenciamento de contatos (CRUD).
+  - **Tech Stack**: JavaScript, HTML5, CSS3.
+  - **Destaque**: Implementação de lógica de validação de formulários e manipulação do DOM em tempo real.
+
+- [**Meu RPG**](https://github.com/Alexandre-Mir/MeuRPG)
   - **Objetivo**: Plataforma estática para comunidades de RPG de mesa.
-  - **Descrição**: Implementei estrutura semântica de HTML5, efeitos CSS interativos e acessibilidade básica. Publicação na Vercel, Versionamento com Git.
+  - **Destaque**: Foco em semântica HTML e acessibilidade básica.
