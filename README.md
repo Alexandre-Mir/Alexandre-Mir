@@ -7,6 +7,7 @@
   Olá, sou o Alexandre
   <div align="center">
     <a href="https://www.linkedin.com/in/alexandre-mir" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge&color=0072b1" alt="Linkedin badge"></a>
+    <a href="https://portfolio-navy-omega-78.vercel.app/"><img src="https://img.shields.io/badge/portfolio-8A2BE2?style=for-the-badge"/></a>
   </div>
 </h1>
 
