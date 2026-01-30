@@ -40,6 +40,9 @@
   </tr>
   <tr>
     <td align="center" >
+      <a href="https://github.com/Alexandre-Mir/vitrine-pro">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alexandre-Mir&repo=vitrine-pro&theme=dark&locale=pt-br" />
+      </a>
       <a href="https://github.com/Alexandre-Mir/clone-disneyplus">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Alexandre-Mir&repo=clone-disneyplus&theme=dark&locale=pt-br" />
       </a>
